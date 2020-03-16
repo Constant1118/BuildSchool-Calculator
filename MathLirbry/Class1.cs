@@ -38,5 +38,13 @@ namespace MathLirbry
         { 
             return  Math.Sqrt(x);
         }
+        public Double Log(int x)
+        {
+            return Math.Log(x);
+        }
+        public Double Natural(int x)
+        {
+           return Math.Log(x, Math.E);
+        }
     }
 }
