@@ -8,5 +8,6 @@ namespace MathLirbry
 {
     public class Class1
     {
+
     }
 }
